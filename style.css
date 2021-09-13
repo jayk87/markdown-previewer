@@ -1,0 +1,22 @@
+#editor {
+  width: min(100%, 700px);
+  height: 200px;
+  resize: vertical;
+  border-style: solid;
+  padding: 5px;
+}
+.editor-box{
+  width: min(90%, 700px);
+  margin: 0 auto;
+}
+
+#preview {
+  border-style: solid;
+  padding: 15px;
+}
+
+.preview-box {
+  width: min(90%, 900px);
+  margin: 0 auto;
+  padding: 30px;
+}
